@@ -10,12 +10,14 @@
   "author": "Kenneth and Phil",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "morgan": "^1.7.0",
     "nodemon": "^1.10.2",
     "nunjucks": "^2.5.2",
     "pg": "^6.1.0",
+    "pg-hstore": "^2.3.2",
     "sequelize": "^3.24.3",
     "socket.io": "^1.4.8"
   }
